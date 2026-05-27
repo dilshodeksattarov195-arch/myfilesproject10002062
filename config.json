@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruarse",
+        "uuid": 1944466,
+        "checksum": "rwumzm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
